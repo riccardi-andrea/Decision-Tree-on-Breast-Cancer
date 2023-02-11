@@ -6,4 +6,4 @@ Variables Considered:
 - 9 independent variables 
 - 1 dependent variable (diagnosis)
 
-
+Accuracy of the model: 0.94
