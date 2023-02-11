@@ -3,4 +3,7 @@
 Decision Tree to predict whether a diagnosis will be considered benign or malignant.
 
 Variables Considered:
-1. 
+- 9 independent variables 
+- 1 dependent variable (diagnosis)
+
+
